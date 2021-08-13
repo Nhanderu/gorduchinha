@@ -3,7 +3,7 @@ package data
 import (
 	"database/sql"
 
-	"github.com/Nhanderu/gorduchinha/app/constant"
+	"github.com/paemuri/gorduchinha/app/constant"
 	"github.com/pkg/errors"
 )
 

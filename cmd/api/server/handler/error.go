@@ -3,7 +3,7 @@ package handler
 import (
 	"fmt"
 
-	"github.com/Nhanderu/gorduchinha/app/constant"
+	"github.com/paemuri/gorduchinha/app/constant"
 	"github.com/valyala/fasthttp"
 )
 

@@ -3,7 +3,7 @@ package data
 import (
 	"database/sql"
 
-	"github.com/Nhanderu/gorduchinha/app/contract"
+	"github.com/paemuri/gorduchinha/app/contract"
 	_ "github.com/lib/pq"
 	"github.com/pkg/errors"
 )

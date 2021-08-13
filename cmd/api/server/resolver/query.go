@@ -1,7 +1,7 @@
 package resolver
 
 import (
-	"github.com/Nhanderu/gorduchinha/app/contract"
+	"github.com/paemuri/gorduchinha/app/contract"
 	"github.com/pkg/errors"
 )
 

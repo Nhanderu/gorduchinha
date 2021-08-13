@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/Nhanderu/gorduchinha/app"
+	"github.com/paemuri/gorduchinha/app"
 )
 
 func main() {

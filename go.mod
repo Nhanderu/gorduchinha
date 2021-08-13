@@ -1,10 +1,10 @@
-module github.com/Nhanderu/gorduchinha
+module github.com/paemuri/gorduchinha
 
 // +heroku goVersion go1.16
 go 1.16
 
 require (
-	github.com/Nhanderu/fastcors v0.1.1
+	github.com/paemuri/fastcors v0.1.1
 	github.com/andybalholm/cascadia v1.2.0
 	github.com/fasthttp/router v1.3.10
 	github.com/go-redis/redis/v8 v8.8.0

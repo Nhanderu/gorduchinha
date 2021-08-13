@@ -3,8 +3,8 @@ package service
 import (
 	"time"
 
-	"github.com/Nhanderu/gorduchinha/app/contract"
-	"github.com/Nhanderu/gorduchinha/app/entity"
+	"github.com/paemuri/gorduchinha/app/contract"
+	"github.com/paemuri/gorduchinha/app/entity"
 	"github.com/pkg/errors"
 )
 

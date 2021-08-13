@@ -3,7 +3,7 @@ package middleware
 import (
 	"time"
 
-	"github.com/Nhanderu/gorduchinha/app/contract"
+	"github.com/paemuri/gorduchinha/app/contract"
 	"github.com/ulule/limiter/v3"
 	"github.com/ulule/limiter/v3/drivers/middleware/fasthttp"
 	"github.com/ulule/limiter/v3/drivers/store/redis"

@@ -7,11 +7,11 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/Nhanderu/gorduchinha/app/cache"
-	"github.com/Nhanderu/gorduchinha/app/config"
-	"github.com/Nhanderu/gorduchinha/app/contract"
-	"github.com/Nhanderu/gorduchinha/app/data"
-	"github.com/Nhanderu/gorduchinha/app/logger"
+	"github.com/paemuri/gorduchinha/app/cache"
+	"github.com/paemuri/gorduchinha/app/config"
+	"github.com/paemuri/gorduchinha/app/contract"
+	"github.com/paemuri/gorduchinha/app/data"
+	"github.com/paemuri/gorduchinha/app/logger"
 )
 
 type App struct {

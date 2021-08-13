@@ -1,8 +1,8 @@
 package server
 
 import (
-	"github.com/Nhanderu/gorduchinha/cmd/api/server/handler"
-	"github.com/Nhanderu/gorduchinha/cmd/api/server/middleware"
+	"github.com/paemuri/gorduchinha/cmd/api/server/handler"
+	"github.com/paemuri/gorduchinha/cmd/api/server/middleware"
 	"github.com/fasthttp/router"
 	"github.com/valyala/fasthttp"
 )

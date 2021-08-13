@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/Nhanderu/gorduchinha/app/constant"
+	"github.com/paemuri/gorduchinha/app/constant"
 	"github.com/pkg/errors"
 	"github.com/valyala/fasthttp"
 )

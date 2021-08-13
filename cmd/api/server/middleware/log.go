@@ -4,8 +4,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Nhanderu/gorduchinha/app/logger"
-	"github.com/Nhanderu/gorduchinha/cmd/api/server/handler"
+	"github.com/paemuri/gorduchinha/app/logger"
+	"github.com/paemuri/gorduchinha/cmd/api/server/handler"
 	"github.com/valyala/fasthttp"
 )
 

@@ -1,8 +1,8 @@
 package handler
 
 import (
-	"github.com/Nhanderu/gorduchinha/app/contract"
-	"github.com/Nhanderu/gorduchinha/cmd/api/server/viewmodel"
+	"github.com/paemuri/gorduchinha/app/contract"
+	"github.com/paemuri/gorduchinha/cmd/api/server/viewmodel"
 	"github.com/valyala/fasthttp"
 )
 

@@ -1,7 +1,7 @@
 package middleware
 
 import (
-	"github.com/Nhanderu/fastcors"
+	"github.com/paemuri/fastcors"
 	"github.com/valyala/fasthttp"
 )
 

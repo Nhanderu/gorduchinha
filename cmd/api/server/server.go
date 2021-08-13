@@ -5,10 +5,10 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Nhanderu/gorduchinha/app/contract"
-	"github.com/Nhanderu/gorduchinha/app/logger"
-	"github.com/Nhanderu/gorduchinha/cmd/api/server/handler"
-	"github.com/Nhanderu/gorduchinha/cmd/api/server/middleware"
+	"github.com/paemuri/gorduchinha/app/contract"
+	"github.com/paemuri/gorduchinha/app/logger"
+	"github.com/paemuri/gorduchinha/cmd/api/server/handler"
+	"github.com/paemuri/gorduchinha/cmd/api/server/middleware"
 	"github.com/pkg/errors"
 	"github.com/valyala/fasthttp"
 )

@@ -1,7 +1,7 @@
 package viewmodel
 
 import (
-	"github.com/Nhanderu/gorduchinha/app/entity"
+	"github.com/paemuri/gorduchinha/app/entity"
 )
 
 type ChampResponse struct {

@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/Nhanderu/gorduchinha/app/constant"
-	"github.com/Nhanderu/gorduchinha/app/contract"
+	"github.com/paemuri/gorduchinha/app/constant"
+	"github.com/paemuri/gorduchinha/app/contract"
 	"github.com/go-redis/redis/v8"
 	"github.com/pkg/errors"
 )

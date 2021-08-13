@@ -1,8 +1,8 @@
 package middleware
 
 import (
-	"github.com/Nhanderu/gorduchinha/app/constant"
-	"github.com/Nhanderu/gorduchinha/cmd/api/server/handler"
+	"github.com/paemuri/gorduchinha/app/constant"
+	"github.com/paemuri/gorduchinha/cmd/api/server/handler"
 	"github.com/valyala/fasthttp"
 )
 

@@ -21,6 +21,7 @@ Fetches all teams in the database.
 Fetches team by its abbreviation.
 
 Current possible values:
+
 - `sccp`
 - `sep`
 - `spfc`
@@ -43,6 +44,7 @@ Fetches all championships in the database.
 Fetches championship by its slug.
 
 Current possible values:
+
 - `national-league-1-div`
 - `national-league-2-div`
 - `national-cup`
@@ -93,7 +95,7 @@ domain, without any additional terms or conditions.
 [2]: ./static/graphql/schema.gql
 [3]: ./LICENSE
 
-[badge-1-img]: https://img.shields.io/github/license/Nhanderu/gorduchinha?style=flat-square
-[badge-1-link]: https://github.com/Nhanderu/gorduchinha/blob/master/LICENSE
-[badge-2-img]: https://goreportcard.com/badge/github.com/Nhanderu/gorduchinha?style=flat-square
-[badge-2-link]: https://goreportcard.com/report/github.com/Nhanderu/gorduchinha
+[badge-1-img]: https://img.shields.io/github/license/paemuri/gorduchinha?style=flat-square
+[badge-1-link]: https://github.com/paemuri/gorduchinha/blob/master/LICENSE
+[badge-2-img]: https://goreportcard.com/badge/github.com/paemuri/gorduchinha?style=flat-square
+[badge-2-link]: https://goreportcard.com/report/github.com/paemuri/gorduchinha
